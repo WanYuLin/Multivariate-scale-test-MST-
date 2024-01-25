@@ -3,7 +3,7 @@ Multivariate scale test (MST) for detecting gene-environment interactions
 ##########################################################################################
 If you use this code to analyze data, please cite the following paper: 
 Lin W-Y* (2024). Detecting gene-environment interactions from multiple continuous traits.
-Any questions or comments, please contact: Wan-Yu Lin, linwy@ntu.edu.tw, Institute of Health Data Analytics and Statistics, National Taiwan University College of Public Health
+Any questions or comments, please contact: Wan-Yu Lin, Institute of Health Data Analytics and Statistics, National Taiwan University College of Public Health
 Thank you.
 ##########################################################################################
 
