@@ -27,11 +27,15 @@ Thanks for your interest.
 PS. How to feed PLINK bfiles into R? Suppose we have "TWB.bim", "TWB.bed", and "TWB.fam", please recode the genotypes into 0, 1, 2, with the following PLINK command:
 
 plink --bfile TWB --recodeA --chr 1 --out chr1 --noweb
+
 plink --bfile TWB --recodeA --chr 2 --out chr2 --noweb
+
 .........
+
 plink --bfile TWB --recodeA --chr 22 --out chr22 --noweb
 
 Then the output "chr1.raw", "chr2.raw", ..., and "chr22.raw" files can be fed into R.
+
 
 
 
